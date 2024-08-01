@@ -103,4 +103,4 @@ If you would like to contribute to this project, please follow these steps:
 
 If you have any questions or suggestions, please feel free to contact the project owner:
 
-- [Utkarsh](mailto:hauntedutkarsh@gmail.com)
+- [howardjohnson](howardjohnson9817@gmail.com)
